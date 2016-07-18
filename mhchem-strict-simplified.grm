@@ -10,8 +10,7 @@
 !  - Just for validity check. Does not parse semantically complete.
 !  - To be used to texvc.js rules
 !  - "strict" = by far not as forgiving as MathJax/mhchem
-!  - "simplified" = all features accessible, but not by al
-!                   missing many shortcuts
+!  - "simplified" = all features accessible, but not by all shortcuts
 !
 ! -------------------------------------------------------------------------
 !
